@@ -1,11 +1,11 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
-  "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "name": "biocognitive",
+  "description": "Anton Nikitenko's Portfolio Website",
+  "version": "0.1.0",
+  "author": "Anton Niktienko <anton@nikitenko.dev>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/AntonNiko/bio-cognitive"
   },
   "keywords": [
     "gatsby"
