@@ -65,9 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a DevOps engineer specializing in architecting scalable, reliable infrastructure for critical
-        business operations, and occasionally developing a wide range of data-driven software solutions.
-        Currently, I'm focused on upgrading and introducing DevOps technologies at 
+        I'm a DevOps engineer specializing in architecting & implementing scalable, reliable 
+        infrastructure for critical business operations, and occasionally developing a wide range of data-driven software solutions.
+        Currently, I'm focused on upgrading and introducing new DevOps technologies at 
         <a href="https://www.zetron.com/" target="_blank" rel="noreferrer">
           Zetron
         </a>
