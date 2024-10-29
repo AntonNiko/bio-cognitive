@@ -135,10 +135,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hi! My name is Anton, and I’m a DevOps engineer with experience architecting 
-            and developing cloud-based software application for data-driven teams. Throughout 
+            Hi! My name is Anton, I’m a DevOps engineer with experience architecting 
+            and developing cloud-based software applications for data-driven teams. Throughout 
             my time at the University of Victoria, I gained valuable experience developing
-            software for safety critical communication with Zetron, and improving Middle 
+            software for safety critical communications with Zetron, and improving Middle 
             Mile Logistics operations at Amazon. Following a returning full-time position 
             at Amazon where I continued architecting software for warehouse operations, 
             I moved to work as a Data Science Software Engineer at Wood Mackenzie. In 
@@ -155,7 +155,7 @@ const About = () => {
             
 
             <p>
-            Outside of work, I enjoy running, climbing, board games, and baking.
+            Outside of work, I enjoy running, climbing, board games, and baking!
             </p>
           </div>
 
