@@ -61,13 +61,14 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Anton Nikitenko.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">I design resilient & scalable software.</h3>;
   const four = (
     <>
       <p>
         I'm a DevOps engineer specializing in architecting & implementing scalable, reliable 
         infrastructure for critical business operations, and occasionally developing a wide range of data-driven software solutions.
-        Currently, I'm focused on upgrading and introducing new DevOps technologies at 
+        Currently, I'm focused on upgrading and introducing new DevOps technologies at&nbsp;
+
         <a href="https://www.zetron.com/" target="_blank" rel="noreferrer">
           Zetron
         </a>

@@ -135,33 +135,28 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+            Hi! My name is Anton, and I’m a DevOps engineer with experience architecting 
+            and developing cloud-based software application for data-driven teams. Throughout 
+            my time at the University of Victoria, I gained valuable experience developing
+            software for safety critical communication with Zetron, and improving Middle 
+            Mile Logistics operations at Amazon. Following a returning full-time position 
+            at Amazon where I continued architecting software for warehouse operations, 
+            I moved to work as a Data Science Software Engineer at Wood Mackenzie. In 
+            that position I performed many DevOps duties including managing the team’s 
+            AWS resources, leading CI/CD initiatives, and support multi-terabyte ETL 
+            processes for the oil & gas industry.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+            Today, I’m working as a DevOps engineer at Zetron, working with my team to 
+            transition the organization to a DevOps culture, implementing CI/CD, immutable 
+            architecture and security & monitoring solutions.
             </p>
+            
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+            Outside of work, I enjoy running, climbing, board games, and baking.
             </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
           {/*<ul className="skills-list">
