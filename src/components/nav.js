@@ -150,6 +150,8 @@ const StyledLinks = styled.div`
   }
 `;
 
+//const StyledLinks = styled.div``;
+
 const Nav = ({ isHome }) => {
   const [isMounted, setIsMounted] = useState(!isHome);
   const scrollDirection = useScrollDirection('down');
